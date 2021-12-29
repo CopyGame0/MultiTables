@@ -1,0 +1,11 @@
+def options(x):
+    print(x, " * 1 ", " = ", x)
+    print(x, " * 2 ", " = ", 2 * x)
+    print(x, " * 3 ", " = ", 3 * x)
+    print(x, " * 4 ", " = ", 4 * x)
+    print(x, " * 5 ", " = ", 5 * x)
+    print(x, " * 6 ", " = ", 6 * x)
+    print(x, " * 7 ", " = ", 7 * x)
+    print(x, " * 8 ", " = ", 8 * x)
+    print(x, " * 9 ", " = ", 9 * x)
+    print(x, " * 10 ", " = ", 10 * x)
