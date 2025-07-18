@@ -45,8 +45,8 @@ def origin():
 def practice():
     global Pscore
 
-    x = random.randint(1, 10)
-    y = random.randint(1, 10)
+    x = random.randint(2, 10)
+    y = random.randint(2, 10)
 
     z = x * y
 
